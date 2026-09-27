@@ -2,7 +2,7 @@
 window.THRONE_CFG = {
   NAME: "THRONE",
   TICKER: "THRONE",
-  CA: "6NTscQY22w2mwqd3kbGQ3MBmfK1XguGfCYAJwXYSpump",                 // token mint (pump.fun CA). Empty = DEMONSTRATION data
+  CA: "DJm6X7VD4CoJJb86ASUybtbUxXnjWo6oAGUnYHZzpump",                 // token mint (pump.fun CA). Empty = DEMONSTRATION data
   CHAIN: "solana",
   PAD: "pump.fun",
   PAIR: "",
