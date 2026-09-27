@@ -2,11 +2,11 @@
 window.THRONE_CFG = {
   NAME: "THRONE",
   TICKER: "THRONE",
-  CA: "",                 // token mint (pump.fun CA). Empty = DEMONSTRATION data
+  CA: "6NTscQY22w2mwqd3kbGQ3MBmfK1XguGfCYAJwXYSpump",                 // token mint (pump.fun CA). Empty = DEMONSTRATION data
   CHAIN: "solana",
   PAD: "pump.fun",
   PAIR: "",
-  X: "",                  // https://x.com/<handle>
+  X: "https://x.com/sitonthronesol",                  // https://x.com/<handle>
   BUY: "",                // blank = https://pump.fun/coin/<CA>
   CHART: "",              // blank = https://gmgn.ai/sol/token/<CA>
 
